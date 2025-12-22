@@ -1,0 +1,6 @@
+This is a sample text file used to test the LangChain file reader tool.
+
+LangChain agents can read external files using tools when required.
+This helps LLMs access local data instead of hallucinating answers.
+
+End of file.
